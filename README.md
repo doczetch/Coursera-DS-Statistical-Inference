@@ -38,13 +38,13 @@ of a large collection of averages of 40 exponentials.
 
 As a motivating example, compare the distribution of 1000 random uniforms
 
-![screenshot of table1](table1)
+![screenshot of table1](table1.png)
 
 
 
 and the distribution of 1000 averages of 40 random uniforms
 
-![screenshot of table2](table2)
+![screenshot of table2](table2.png)
 
 
 
